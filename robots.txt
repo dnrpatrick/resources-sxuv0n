@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dnrpatrick.github.io/resources-sxuv0n/sitemap.xml
